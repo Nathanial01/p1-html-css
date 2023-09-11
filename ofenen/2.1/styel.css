@@ -1,0 +1,13 @@
+.menu{
+    background-color: rgb(105, 114, 98);
+    height: 100px;
+    width: 100%;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+}
+p{
+    color: blue;
+}
