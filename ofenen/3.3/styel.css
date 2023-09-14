@@ -1,0 +1,20 @@
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+}
+.num{
+    width: 6%;
+}
+
+
+tr{
+    width: 30%;
+    border: 1px solid #77777724; 
+}
+
+
+  td {
+    padding: 20px;
+  
+  }
