@@ -1,0 +1,43 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+   
+}
+
+img {
+    width: 100%;
+    object-fit: cover; 
+
+}
+h1{
+    font-style: italic;
+    font-size: 24px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+h2{
+  font-size: 20px;
+  color :#0000ff;
+  font-weight: bolder;
+}
+
+h3{
+    font-weight: bolder;
+    font-size: 16px;
+    color: #13ebe4;
+}
+
+p {
+    color:#000000 ;
+ 
+}
+
+a {
+   color: #8A2BE2;
+}
+span{
+    font-weight:bold;
+}
